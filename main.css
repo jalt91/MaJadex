@@ -1,0 +1,39 @@
+body {
+    background-color: #e9e9e9 !important;
+}
+.card-body {
+    padding:0px!important;
+}
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+  }
+  
+.sprite {
+    position: relative;
+    width: 90%;
+    margin-top: -150px;
+    z-index: 1;
+}
+.hidden-circle {
+    
+}
+svg {
+
+    overflow: hidden;
+}
+.card {
+     --bs-card-border-radius: 15px!important;
+}
+.type-1 {
+    height: 30px;
+    z-index: 1;
+}
+.type-pokemon {
+    position: absolute;
+    margin-top: -378px;
+    margin-left: 48px;
+    z-index: 2;
+}
